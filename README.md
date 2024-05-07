@@ -65,17 +65,17 @@ Different Python libraries like Matplotlib -Pyplot-, Plotly, and Seaborn were ut
 ---  
 # Methodology
 The project employs a bivariate EDA approach to examine the relationship between age group (25-40 years) and gender in relation to training participation. The analysis involves:
-#### 1. Data Acquisition and Cleaning:
+## 1. Data Acquisition and Cleaning:
    * Downloading the AMS training data.
    * Missing values are handled by dropping rows with incomplete data.
    * Unnecessary columns are removed.
 
-#### 2. Initial Data Exploration:
+## 2. Initial Data Exploration:
    The initial exploration focuses on age groups, revealing trends in training participation across various age brackets. Techniques used include:
    * Descriptive Statistics: Summarizing data with measures like average monthly participants and distributions.
    * Visualization: Employing bar charts, trend lines, and boxplots to visually represent patterns.
 
-#### 3. Investigating the Exploratory Hypothesis:
+## 3. Investigating the Exploratory Hypothesis:
    * Focusing on the 25-40 age group, analyzing average monthly training participation for both genders across years.
    * Employing tables and visualizations to explore potential gender-based differences.
 
@@ -84,14 +84,14 @@ The project employs a bivariate EDA approach to examine the relationship between
 
 ---
 # Results
-### 1. Data Acquisition and Cleaning:
+## 1. Data Acquisition and Cleaning:
 * Nr. columns: 9
 * Nr. rows: 1.806.070
 * Nr. colums dropped: 1
 * Nr. rows dropped: 517
 * Nr. duplicates: 0
 
-### 2. Initial Data Exploration:
+## 2. Initial Data Exploration:
 * Greater variability in participation for age groups 20-50 during pandemic years.
 * A significant decline in training participation across all age groups following the COVID-19 pandemic (February 2020).
 <kbd>
@@ -105,7 +105,7 @@ The project employs a bivariate EDA approach to examine the relationship between
   <img src="images/avg_month_partic_age-group.jpg">
 </kbd>  
 
-### 3. Investigating the Exploratory Hypothesis
+## 3. Investigating the Exploratory Hypothesis
 The project investigates the following exploratory hypothesis:
 
 **The training attendance for age groups between 25 and 40 years –where individuals experience crucial life transitions– exhibits divergent trends between females and males.**  
@@ -117,7 +117,7 @@ The analysis focuses on the 25-40 age group and utilizes methods like:
 * Data Subsetting: Isolating relevant age groups and gender data.
 * Comparison of Average Monthly Training Participants: Analyzing trends for females and males over time.
 
-#### 3.1 Results
+### 3.1 Results
 The analysis reveals a compelling trend:
 * The average monthly number of participants increased post-pandemic, but the participation proportion between genders remained relatively stable.
 
@@ -132,7 +132,7 @@ The analysis reveals a compelling trend:
   <img src="images/avg_month_partic_age-group_by_year_age-group_v2.jpg">
 </kbd> 
 
-#### 3.2 Discussion
+### 3.2 Discussion
 Interpreting these results reveals a significant gender-based divergence in training attendance patterns for the critical 25 to 40-year life stage. Acknowledging limitations impacting generalizability, such as uncertainty about individuals starting a family at ages 25-30, is essential.
 
 This gender-based divergence, with females trending upward and males downward, suggests the need for tailored strategies in employment support programs. Gender-sensitive interventions, recognizing specific learning patterns, should be conducted by AMS.
@@ -163,6 +163,4 @@ This project utilizes
 
 1. Clone the repository.
 2. Install required dependencies.
-3. Open the Jupyter Notebook file and run the code cells sequentially.
-
-
+3. Open the Jupyter Notebook [ams_data_bivariate_eda.ipynb](https://github.com/cperead/ams_data_bivariate_eda/blob/main/ams_data_bivariate_eda.ipynb) file and run the code cells sequentially.
