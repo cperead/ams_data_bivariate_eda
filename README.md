@@ -126,7 +126,8 @@ The analysis reveals a compelling trend:
 </kbd>   
    
 <br>  
-   
+<p> </p>   
+  
 * **Females** exhibit an **increasing** trend in training attendance with age within the 25-40 range.
 * Conversely, **males** demonstrate a **decreasing** trend in training attendance as they age within this range (This observed pattern has remained consistent since 2020, suggesting a sustained trend)
 
