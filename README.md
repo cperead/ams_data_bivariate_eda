@@ -120,13 +120,13 @@ The analysis focuses on the 25-40 age group and utilizes methods like:
 ### 3.1 Results
 The analysis reveals a compelling trend:
 * The average monthly number of participants increased post-pandemic, but the participation proportion between genders remained relatively stable.
-
+  
 <kbd>
   <img src="images/avg_month_partic_age-group_by_year.jpg">
-</kbd> 
-
-<br>
-
+</kbd>   
+   
+<br>  
+   
 * **Females** exhibit an **increasing** trend in training attendance with age within the 25-40 range.
 * Conversely, **males** demonstrate a **decreasing** trend in training attendance as they age within this range (This observed pattern has remained consistent since 2020, suggesting a sustained trend)
 
