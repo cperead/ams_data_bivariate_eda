@@ -1,5 +1,5 @@
 
-# AMS Data Bivariate EDA: <br> A Bivariate Exploratory Data Analysis (EDA) of Age and Gender in Training Participation for Austria's Unemployed Office (AMS)
+# AMS Data Bivariate EDA: <br> A Bivariate Exploratory Data Analysis (EDA) of Age Groups and Gender in Training Participation for Austria's Unemployed Office (AMS)
 
 <br>
 
