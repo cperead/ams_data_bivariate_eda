@@ -97,9 +97,10 @@ The project employs a bivariate EDA approach to examine the relationship between
 <kbd>
   <img src="images/total_train-partic_by_year-month.jpg">
 </kbd>  
-
-<br>   
-
+     
+<br>  
+<p> </p>   
+      
 * Potential outliers in the 60+ age groups for average monthly participation.  <br>   
 <kbd>
   <img src="images/avg_month_partic_age-group.jpg">
@@ -124,11 +125,10 @@ The analysis reveals a compelling trend:
 <kbd>
   <img src="images/avg_month_partic_age-group_by_year.jpg">
 </kbd>   
-   
+     
 <br>  
 <p> </p>   
-<p> </p>   
-    
+      
 * **Females** exhibit an **increasing** trend in training attendance with age within the 25-40 range.
 * Conversely, **males** demonstrate a **decreasing** trend in training attendance as they age within this range (This observed pattern has remained consistent since 2020, suggesting a sustained trend)
 
