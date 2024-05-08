@@ -133,7 +133,7 @@ The analysis reveals a compelling trend:
 * Conversely, **males** demonstrate a **decreasing** trend in training attendance as they age within this range (This observed pattern has remained consistent since 2020, suggesting a sustained trend)
 
 <kbd>
-  <img src="images/avg_month_partic_age-group_by_year_age-group_v2.jpg">
+  <img src="images/avg_month_partic_age-group_by_year_age-group.jpg">
 </kbd> 
 
 ### 3.2 Discussion
