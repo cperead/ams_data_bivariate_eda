@@ -1,11 +1,11 @@
 
-# AMS Data Bivariate EDA: <br> A Bivariate Exploratory Data Analysis (EDA) of Age Groups and Gender in Training Participation for Austria's Unemployed Office (AMS)
+# AMS Data Bivariate EDA: <br> A Bivariate Exploratory Data Analysis (EDA) of Age Groups and Gender in Training Participation at The Austrian Public Employment Service (AMS)
 
 <br>
 
 ---  
 # Project Overview
-This project investigates training participation patterns within Austria's Unemployed Office (AMS) programs. A bivariate Exploratory Data Analysis (EDA) approach is employed to examine the relationships between demographics and participation. The data for this analysis comes from the Arbeitsmarktservice Österreich AMS (https://www.ams.at/).
+This project investigates training participation patterns within The Austrian Public Employment Service (AMS) programs. A bivariate Exploratory Data Analysis (EDA) approach is employed to examine the relationships between demographics and participation. The data for this analysis comes from the Arbeitsmarktservice Österreich AMS (https://www.ams.at/).
 
 This EDA investigates how age and gender variables influence training participation among individuals enrolled in AMS programs. By exploring the data and visualizing patterns, this project seeks to gain insights that can improve our understanding of participant demographics and the factors driving their training decisions.
 
@@ -64,7 +64,7 @@ Different Python libraries like Matplotlib -Pyplot-, Plotly, and Seaborn were ut
 
 ---  
 # Methodology
-The project employs a bivariate EDA approach to examine the relationship between age group (25-40 years) and gender in relation to training participation. The analysis involves:
+The project employs a bivariate EDA approach to examine the relationship between age groups (25-40 years) and gender in relation to training participation. The analysis involves:
 ## 1. Data Acquisition and Cleaning:
    * Downloading the AMS training data.
    * Missing values are handled by dropping rows with incomplete data.
@@ -76,7 +76,7 @@ The project employs a bivariate EDA approach to examine the relationship between
    * Visualization: Employing bar charts, trend lines, and boxplots to visually represent patterns.
 
 ## 3. Investigating the Exploratory Hypothesis:
-   * Focusing on the 25-40 age group, analyzing average monthly training participation for both genders across years.
+   * Focusing on the 25-40 age groups, analyzing average monthly training participation for both genders across years.
    * Employing tables and visualizations to explore potential gender-based differences.
 
 
@@ -112,7 +112,7 @@ The project investigates the following exploratory hypothesis:
 
 This hypothesis is driven by the notion that life transitions (family, career) during this age range might influence training attendance differently for genders.
 
-The analysis focuses on the 25-40 age group and utilizes methods like:
+The analysis focuses on the 25-40 age groups and utilizes methods like:
 
 * Data Subsetting: Isolating relevant age groups and gender data.
 * Comparison of Average Monthly Training Participants: Analyzing trends for females and males over time.
@@ -141,7 +141,7 @@ Interpreting these results reveals a significant gender-based divergence in trai
 
 This gender-based divergence, with females trending upward and males downward, suggests the need for tailored strategies in employment support programs. Gender-sensitive interventions, recognizing specific learning patterns, should be conducted by AMS.
 
-Further exploration is vital to identify and address potential confounding variables influencing observed trends. Subsequent analyses may involve incorporating additional datasets or collecting new data to enhance understanding of dynamics propelling training attendance disparities between genders in this age group. These datasets could include information about Employment History, Educational Background, Marital Status, and Family Planning.
+Further exploration is vital to identify and address potential confounding variables influencing observed trends. Subsequent analyses may involve incorporating additional datasets or collecting new data to enhance understanding of dynamics propelling training attendance disparities between genders in these age groups. These datasets could include information about Employment History, Educational Background, Marital Status, and Family Planning.
 
 <br>
 
